@@ -2,11 +2,9 @@
   "_info": "Thêm tên file ảnh vào mảng 'files' bên dưới. Hỗ trợ: jpg, jpeg, png, webp, gif",
   "_huong_dan": "Mỗi lần up ảnh mới vào thư mục này, thêm tên file vào đây rồi commit lên GitHub",
   "files": [
-    "photo_1.jpg",
-    "photo_2.jpg",
-    "photo_3.jpg",
-    "photo_4.jpg",
-    "photo_5.jpg",
-    "photo_6.jpg"
+    "NGUYỄN VIỆT ĐỨC.jpg",
+    "a1.jpg",
+    "z7063794134952_b2b13683e44c9c101da00e6682d0f42b.jpg",
+    "z7861380576510_c2b5aa65c89ff6f04cc705881da48df7.jpg",
   ]
 }
