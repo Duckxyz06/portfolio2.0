@@ -1,0 +1,26 @@
+{
+  "_info": "Mỗi object là 1 dự án. Chỉ cần có 'image' là đủ, các trường khác tuỳ chọn.",
+  "_huong_dan": "Up ảnh vào thư mục này, thêm entry vào 'projects' rồi commit lên GitHub",
+  "projects": [
+    {
+      "image": "project1.jpg",
+      "title": "Dự án #1",
+      "tags": ["Web Dev", "Supabase"],
+      "problem": "Mô tả vấn đề cần giải quyết.",
+      "solution": "Giải pháp bạn đã thực hiện.",
+      "result": "Kết quả đạt được.",
+      "demo": "",
+      "github": ""
+    },
+    {
+      "image": "project2.jpg",
+      "title": "Dự án #2",
+      "tags": ["Automation", "n8n"],
+      "problem": "Mô tả vấn đề cần giải quyết.",
+      "solution": "Giải pháp bạn đã thực hiện.",
+      "result": "Kết quả đạt được.",
+      "demo": "",
+      "github": ""
+    }
+  ]
+}
